@@ -27,7 +27,6 @@ class LoginPage {
     return cy.get("[translate='login.content.heading']");
   }
 
-
   getSuccessResetPasswordMessage() {
     return cy.get('.margin-top-10.ng-scope');
   }

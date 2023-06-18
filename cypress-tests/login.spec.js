@@ -67,5 +67,4 @@ describe('Login', () => {
   loginPage.rememberButton();
   loginPage.getTitlePage().should('have.text', 'Вход');
   });
-
 });
