@@ -9,5 +9,5 @@
 3. Тесты должны быть написаны с помощью https://www.cypress.io/
 
 ## Steps:
-1. **Clone this repository**: git clone https://github.com/John-Golt1/CarrotTest_Task.git
+1. **Clone this repository**: git clone https://github.com/John-Golt1/Carrot_Test_Task.git
 2. **In directory Carrot_Test_Task** run the command: **npm run cypress:open**
